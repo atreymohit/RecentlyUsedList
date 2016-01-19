@@ -1,0 +1,7 @@
+c:\users\mohit.atrey\documents\visual studio 2013\Projects\RecentlyUsedListImplementation\RecentlyUsedListUnitTesting.tests\obj\Debug\RecentlyUsedListUnitTesting.tests.csprojResolveAssemblyReference.cache
+c:\users\mohit.atrey\documents\visual studio 2013\Projects\RecentlyUsedListImplementation\RecentlyUsedListUnitTesting.tests\bin\Debug\RecentlyUsedListUnitTesting.tests.dll
+c:\users\mohit.atrey\documents\visual studio 2013\Projects\RecentlyUsedListImplementation\RecentlyUsedListUnitTesting.tests\bin\Debug\RecentlyUsedListUnitTesting.tests.pdb
+c:\users\mohit.atrey\documents\visual studio 2013\Projects\RecentlyUsedListImplementation\RecentlyUsedListUnitTesting.tests\bin\Debug\RecentlyUsedListImplementation.exe
+c:\users\mohit.atrey\documents\visual studio 2013\Projects\RecentlyUsedListImplementation\RecentlyUsedListUnitTesting.tests\bin\Debug\RecentlyUsedListImplementation.pdb
+c:\users\mohit.atrey\documents\visual studio 2013\Projects\RecentlyUsedListImplementation\RecentlyUsedListUnitTesting.tests\obj\Debug\RecentlyUsedListUnitTesting.tests.dll
+c:\users\mohit.atrey\documents\visual studio 2013\Projects\RecentlyUsedListImplementation\RecentlyUsedListUnitTesting.tests\obj\Debug\RecentlyUsedListUnitTesting.tests.pdb
